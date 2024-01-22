@@ -6,7 +6,7 @@
 // @author       W-Dragoner
 // @match        https://*/*
 // @icon         https://raw.githubusercontent.com/W-Dragoner/My-Scripts/master/demo1/demo1.png
-//@license       AGPL-3.0
+// @license       AGPL-3.0
 // @grant        none
 // ==/UserScript==
 
