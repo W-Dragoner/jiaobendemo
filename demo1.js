@@ -22,6 +22,6 @@
 
     // 给按钮添加点击事件处理函数
     button.addEventListener('click', function() {
-        alert('你点击了按钮！');
+        alert('你点击了按钮！!');
     });
 })();
